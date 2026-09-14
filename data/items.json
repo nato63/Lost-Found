@@ -1,0 +1,38 @@
+[
+  {
+    "item_id": 1,
+    "title": "laptop bag",
+    "description": "loptop is black",
+    "category": "clothing",
+    "item_type": "Found",
+    "location": "in class left on friday",
+    "reported_by": "jose12@gmail.com",
+    "claimed_by": "",
+    "date_reported": "2026-09-14",
+    "status": "Found"
+  },
+  {
+    "item_id": 2,
+    "title": "grey phone case",
+    "description": "it grey in colour",
+    "category": "Electronic",
+    "item_type": "Found",
+    "location": "at the gate",
+    "reported_by": "anto34@gmail.com",
+    "claimed_by": "sienna56@gmail.com",
+    "date_reported": "2026-09-14",
+    "status": "Returned"
+  },
+  {
+    "item_id": 3,
+    "title": "grey phone case",
+    "description": "grey in colour",
+    "category": "electronic",
+    "item_type": "Lost",
+    "location": "class",
+    "reported_by": "sienna56@gmail.com",
+    "claimed_by": "",
+    "date_reported": "2026-09-14",
+    "status": "Lost"
+  }
+]

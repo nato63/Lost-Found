@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Joseph",
+        "email": "jose12@gmail.com",
+        "password_hash": "7c7f826e93af2ab55f4ce3101729e3a143702ade1bfe9bda018dacb5811b9290",
+        "role": "user"
+    },
+    {
+        "name": "Antony",
+        "email": "anto34@gmail.com",
+        "password_hash": "0349bc5099a9c1f26f29a0193e80a59a844dcfbe678b43a18a8c185b0c08f301",
+        "role": "user"
+    },
+    {
+        "name": "Sienna",
+        "email": "sienna56@gmail.com",
+        "password_hash": "2f00d144f55f573ddfa55d93676dec1ad2698121f7c55055cc3ba26132dfc9a8",
+        "role": "user"
+    },
+    {
+        "name": "Nato",
+        "email": "nato78@gmail.com",
+        "password_hash": "125d494143112c4b8dd852c14aa3370026d8cd4eb9567e6e2aa916513bc52067",
+        "role": "admin"
+    }
+]
